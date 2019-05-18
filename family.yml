@@ -1,0 +1,177 @@
+families:
+  - parents: [爺爺, 奶奶]
+    children: [伯父(叔父), 姑媽, 爸爸]
+  - parents: [伯父(叔父), 伯母(嬸嬸)]
+    children: [堂姐妹, 堂兄弟]
+  - parents: [姑媽, 姑丈]
+    children: [(爸爸那邊)表姐妹, (爸爸那邊)表兄弟]
+  - parents: [爸爸, 媽媽]
+    children: [哥哥(弟弟), 我, 姐姐(妹妹)]
+  - parents: [哥哥(弟弟), 嫂嫂(弟媳)]
+    children: [姪子, 姪女]
+  - parents: [姐姐(妹妹), 姐夫(妹夫)]
+    children: [外甥, 外甥女]
+  - parents: [我]
+    children: [兒子, 女兒]
+  - parents: [兒子, 媳婦]
+    children: [孫子, 孫女]
+  - parents: [女兒, 女婿]
+    children: [外孫子, 外孫女]
+  - parents: [外公, 外婆]
+    children: [媽媽, 舅舅, 姨媽]
+  - parents: [舅舅, 舅媽]
+    children: [(媽媽那邊)表姐妹, (媽媽那邊)表兄弟]
+  - parents: [姨媽, 姨丈]
+    children: [(媽媽那邊)表姐妹, (媽媽那邊)表兄弟]
+  
+
+people:
+  我:
+    name: 我
+    fullname: .
+    gender: m
+  兒子:
+    name: 兒子
+    fullname: .
+    gender: m
+  媳婦:
+    name: 媳婦
+    fullname: 兒子的老公:子婿
+    gender: f
+  孫子:
+    name: 孫子
+    fullname: .
+    gender: m
+  孫女:
+    name: 孫女
+    fullname: .
+    gender: f
+  女兒:
+    name: 女兒
+    fullname: .
+    gender: f
+  女婿:
+    name: 女婿
+    fullname: 女兒的妻子:女媳
+    gender: m
+  外孫子:
+    name: 外孫子
+    fullname: .
+    gender: m
+  外孫女:
+    name: 外孫女
+    fullname: .
+    gender: f
+  姐姐(妹妹):
+    name: 姐姐(妹妹)
+    fullname: .
+    gender: f
+  姐夫(妹夫):
+    name: 姐夫(妹夫)
+    fullname: 姐妹的妻子:姐嫂(妹媳)
+    gender: m
+  哥哥(弟弟):
+    name: 哥哥(弟弟)
+    fullname: .
+    gender: m
+  嫂嫂(弟媳):
+    name: 嫂嫂(弟媳)
+    fullname: 兄弟的老公:兄夫(弟婿)
+    gender: f
+  姪子:
+    name: 姪子
+    fullname: .
+    gender: m
+  姪女:
+    name: 姪女
+    fullname: .
+    gender: f
+  外甥:
+    name: 外甥
+    fullname: .
+    gender: m
+  外甥女:
+    name: 外甥女
+    fullname: .
+    gender: f
+  媽媽:
+    name: 媽媽
+    fullname: .
+    gender: f
+  爸爸:
+    name: 爸爸
+    fullname: .
+    gender: m
+  爺爺:
+    name: 爺爺
+    fullname: .
+    gender: m
+  奶奶:
+    name: 奶奶
+    fullname: .
+    gender: f
+  伯父(叔父):
+    name: 伯父(叔父)
+    fullname: .
+    gender: m
+  伯母(嬸嬸):
+    name: 伯母(嬸嬸)
+    fullname: 伯父(叔父)的丈夫:伯丈(叔丈)
+    gender: f
+  堂姐妹:
+    name: 堂姐妹
+    fullname: .
+    gender: f
+  堂兄弟:
+    name: 堂兄弟
+    fullname: .
+    gender: m
+  姑媽:
+    name: 姑媽
+    fullname: .
+    gender: f
+  姑丈:
+    name: 姑丈
+    fullname: 姑媽的妻子:姑母(姑審)
+    gender: m
+  (媽媽那邊)表兄弟:
+    name: (媽媽那邊)表兄弟
+    fullname: .
+    gender: m
+  (爸爸那邊)表兄弟:
+    name: (爸爸那邊)表兄弟
+    fullname: .
+    gender: m
+  (媽媽那邊)表姐妹:
+    name: (媽媽那邊)表姐妹
+    fullname: .
+    gender: f
+  (爸爸那邊)表姐妹:
+    name: (爸爸那邊)表姐妹
+    fullname: .
+    gender: f
+  外公:
+    name: 外公
+    fullname: .
+    gender: m
+  外婆:
+    name: 外婆
+    fullname: .
+    gender: f
+  舅舅:
+    name: 舅舅
+    fullname: .
+    gender: m
+  舅媽:
+    name: 舅媽
+    fullname: 舅舅的丈夫:舅丈
+    gender: f
+  姨媽:
+    name: 姨媽
+    fullname: .
+    gender: f
+  姨丈:
+    name: 姨丈
+    fullname: 姨媽的妻子:姨妗
+    gender: m
+
