@@ -1,7 +1,7 @@
 {
   "name": "TaiwanHomosexualGenealogy",
   "version": "1.0.0",
-  "description": "臺灣同性族譜",
+  "description": "臺灣(同性)婚姻族譜稱謂圖",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
