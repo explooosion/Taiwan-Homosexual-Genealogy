@@ -1,0 +1,20 @@
+{
+  "name": "TaiwanHomosexualGenealogy",
+  "version": "1.0.0",
+  "description": "臺灣同性族譜",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/explooosion/Taiwan-Homosexual-Genealogy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/explooosion/Taiwan-Homosexual-Genealogy/issues"
+  },
+  "homepage": "https://github.com/explooosion/Taiwan-Homosexual-Genealogy#readme"
+}
