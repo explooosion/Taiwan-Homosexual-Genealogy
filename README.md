@@ -5,11 +5,9 @@
 
 ## 臺灣(同性)婚姻族譜稱謂圖
 
-## Same-sex marriage in Taiwan
+Same-sex marriage in Taiwan
 
-![Imgur](https://i.imgur.com/tweeHED.jpg)
-
-- 圖源：[中央社-同婚專法亞洲第一 立院三讀通過](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
+Online: [Demo](http://robby570.tw/Taiwan-Homosexual-Genealogy/index.html)
 
 ![臺灣(同性)婚姻族譜稱謂圖](https://raw.githubusercontent.com/explooosion/Taiwan-Homosexual-Genealogy/master/family.png)
 ---
